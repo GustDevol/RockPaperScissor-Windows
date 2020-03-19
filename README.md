@@ -19,7 +19,7 @@ C:\\> git clone https://github.com/GustDevol/RockPaperScissor-Windows.git
 
 (Git install using Chocolatey : > choco install git )
 
-After cloning open that directry and simply double click to run
+After cloning open that directory and simply double click to run
 
 # ENJOY.
 
