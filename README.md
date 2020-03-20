@@ -15,11 +15,9 @@ For Cloning use command : -
 
 C:\\> git clone https://github.com/GustDevol/RockPaperScissor-Windows.git
 
-( git can be installed from https://git-scm.com/download/win )
+( [Git](https://git-scm.com/download/win) can be installed . )
 
-(Git install using Chocolatey : > choco install git )
-
-(Chocolatey can be installed from https://chocolatey.org/docs/installation )
+(Git install using [Chocolatey](https://chocolatey.org/docs/installation) : > choco install git )
 
 After cloning open that directory and simply double click RockPaperScissor.exe to run .
 
