@@ -21,6 +21,27 @@ C:\\> git clone https://github.com/GustDevol/RockPaperScissor-Windows.git
 
 After cloning open that directory and simply double click RockPaperScissor.exe to run .
 
+#### After launching the application , PLAY with yor friend .
+#### Start by entering your names and number of rounds to play .
+
+![](/images/details.PNG)
+
+#### One by one both players enter your choices (Paper , Scissor or Rock) .
+
+![](/images/player1.PNG)
+
+#### In case of a draw , you can continue to play that many number of rounds by giving more choices ,
+
+![](/images/player2.PNG)
+
+#### untill one of the player is
+
+### WINNER !!!!
+
+![](/images/winner.PNG)
+
+## We hope you like it .
+
 # ENJOY.
 
 # Thank You.
