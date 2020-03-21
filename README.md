@@ -15,7 +15,7 @@ For Cloning use command : -
 
 C:\\> git clone https://github.com/GustDevol/RockPaperScissor-Windows.git
 
-( [Git](https://git-scm.com/download/win) can be installed . )
+( [Git](https://git-scm.com/download/win) should be installed . )
 
 (Git install using [Chocolatey](https://chocolatey.org/docs/installation) : > choco install git )
 
